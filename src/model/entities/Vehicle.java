@@ -1,4 +1,4 @@
-package entities.models;
+package model.entities;
 
 public class Vehicle {
 	

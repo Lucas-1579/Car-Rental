@@ -7,10 +7,10 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.models.CarRental;
-import entities.models.Vehicle;
-import entities.service.BrazilTaxService;
-import entities.service.RentalService;
+import model.entities.CarRental;
+import model.entities.Vehicle;
+import model.services.BrazilTaxService;
+import model.services.RentalService;
 
 public class Program {
 
